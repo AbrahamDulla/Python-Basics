@@ -1,8 +1,3 @@
-
-
-print("My name is ", name, "and i am ",  age, "years old")
-
-
 # In Python, there are several built-in data types:
 
 # 1 Numeric data types:
